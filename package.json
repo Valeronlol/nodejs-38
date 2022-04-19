@@ -1,0 +1,22 @@
+{
+  "name": "hard-user-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon ./app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "argon2": "^0.28.5",
+    "find-my-way": "^5.4.0",
+    "jsonwebtoken": "^8.5.1",
+    "nodemon": "^2.0.15",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.27"
+  }
+}

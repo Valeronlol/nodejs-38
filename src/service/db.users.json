@@ -1,0 +1,10 @@
+[
+    {
+        "id": "6c34df07-c373-4a7b-9bb0-3b17735f8b0e",
+        "name": "valera",
+        "login": "val",
+        "age": 32,
+        "roles": ["SUPERADMIN"],
+        "password": "$argon2i$v=19$m=4096,t=3,p=1$cVZIa3ZCdkdUNHpTWGRLdnE5UWZlYmNBQ3FVMnloM3dzcmtmTVFMcTVFQ0hzRE1lZVFGSHR4TmFXeGpLemQ3NDRQRHFDREZCeTJkNWJXOGdYYnczRkt6VFZCMnlHRlp0NmN5RTNXSFBuWjR4QkpYQXpYYkRkOXF1QmREcVF6WDM$Aiate/IsL4ezUydly5//dZS7+UfOKNz7wNLnfvzcKjM"
+    }
+]
